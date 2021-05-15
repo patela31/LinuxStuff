@@ -1,0 +1,10 @@
+
+
+# cat and tac
+
+# sed -i '1,10s/:/-/g' /etc/passwd
+  sed -i '1,10d' /etc/passwd
+  sed -n '1,10p' /etc/passwd
+
+# awk -F ':' '{print $1}'  filename
+

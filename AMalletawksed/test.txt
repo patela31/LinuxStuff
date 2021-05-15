@@ -1,0 +1,7 @@
+
+         threeroot:x:0:0:root:/root:/bin/bash
+         threetestdaemon:x:1:1:daemon:/usr/sbin:/usr/sbin/nologin
+         threetestbin:x:2:2:bin:/bin:/usr/sbin/nologin
+testsys:x:3:3:sys:/dev:/usr/sbin/nologin
+testsync:x:4:65534:sync:/bin:/bin/sync
+testgames:x:5:60:games:/usr/games:/usr/sbin/nologin
