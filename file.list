@@ -1,3 +1,4 @@
 /etc/hosts
 /etc/services
-
+/etc/sudoers
+/etc/hostname
