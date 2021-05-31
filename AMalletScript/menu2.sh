@@ -11,7 +11,7 @@ while true ; do
 		1) w;;
 		2) date --date "90 days";;
 		3) exit 0;;
-		*) echo "Selection not recognised, please re-enter":x!
+		*) echo "Selection not recognised, please re-enter"
 	esac
 	read -n1 -p "Press any key to contine"
 done
