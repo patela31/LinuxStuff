@@ -2,3 +2,4 @@
 /etc/services
 /etc/sudoers
 /etc/hostname
+/etc/syslog.conf
